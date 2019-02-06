@@ -1,1 +1,2 @@
 This is a new test text file that I've created to learn about working with Git locally.
+This is a new line that I'm going to be using as part of a new branch.
